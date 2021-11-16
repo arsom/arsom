@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arsom
 - 👀 I’m interested in Java Technology, Go, Docker and Kubernetes
-- 🌱 I’m currently learning Spring Boot , Ansible
+- 🌱 I’m currently learning Spring Boot , Ansible, Go
 - 💞️ I’m looking to collaborate on People around the world
 - 📫 How to reach me Email : arsomm@gmail.com
 
